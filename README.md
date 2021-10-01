@@ -1,6 +1,6 @@
 # codedamn - Slack clone
 
-![Design for the project](./assets/desktop-design.jpg)
+![Design for the project](https://raw.githubusercontent.com/codedamn-projects/slack-clone/main/assets/desktop-design.jpg)
 
 ## Hello developer!
 
