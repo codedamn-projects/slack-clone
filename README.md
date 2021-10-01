@@ -21,7 +21,7 @@ Want some support on the challenge? [Join our discord community](https://cdm.sh/
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design.
+Your task is to build out the project as per the provided screenshots. You will find both a mobile and a desktop version of the design.
 
 The designs are in image formats (sketch and figma designs coming soon).
 
